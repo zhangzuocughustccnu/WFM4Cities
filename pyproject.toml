@@ -49,7 +49,7 @@ dependencies = [
 spatial = [
   "geopandas>=0.13,<2",
   "shapely>=2,<3",
-  "libpysal>=4.9,<5",
+  "libpysal>=4.13.0,<5",
   "esda>=2.5,<3",
 ]
 dev = [
