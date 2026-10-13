@@ -1,5 +1,5 @@
 -r requirements.txt
-geopandas>=0.13,<2
+geopandas>=1.1.4,<2
 shapely>=2,<3
 libpysal>=4.9,<5
 esda>=2.5,<3
