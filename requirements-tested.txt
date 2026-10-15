@@ -1,5 +1,5 @@
 # Exact runtime versions used for the 2026-08-08 release-candidate verification.
 numpy==2.3.5
 scipy==1.17.0
-matplotlib==3.10.8
+matplotlib==3.10.9
 scikit-learn==1.8.0
